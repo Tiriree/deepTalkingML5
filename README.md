@@ -4,7 +4,7 @@
 [deep.tiri.xxx](https://deep.tiri.xxx/)
 
 
-<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/Large-GIF-542x282.gif" rel="attachment wp-att-1150"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/Large-GIF-542x282.gif" alt="Large GIF (542x282)" width="542" height="282" class="aligncenter size-full wp-image-1150" /></a>
+<a href="http://xxx.tiri.xxx/wp-content/uploads/2018/04/Large-GIF-542x302-1.gif" rel="attachment wp-att-1149"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/04/Large-GIF-542x302-1.gif" alt="Large GIF (542x302)" width="542" height="302" class="aligncenter size-full wp-image-1149" /></a>
 
 
 Machine Learning Bot. I uses machine learning algorithms to generate it’s understanding model.
