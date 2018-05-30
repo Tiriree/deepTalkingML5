@@ -37,3 +37,17 @@ Run it and try it on localhost
 
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2018/05/mynameML.gif" rel="attachment wp-att-1177"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/05/mynameML.gif" alt="mynameML" width="320" height="166" class="aligncenter size-full wp-image-1177" /></a>
 
+
+Special thanks
+
+ML5 team 
+Daniel Shiffman
+R. Luke Dubois
+Allison Parrish
+Mimi Yin
+Gabriel Barcia-Colombo
+Pedro Oliveira
+Sam Lavigne
+Sarah Rothberg
+Aarón Montoya-Moraga
+Sebastian Morales Prado
