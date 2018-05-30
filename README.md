@@ -40,14 +40,14 @@ Run it and try it on localhost
 
 Special thanks
 
-ML5 team 
-Daniel Shiffman
-R. Luke Dubois
-Allison Parrish
-Mimi Yin
-Gabriel Barcia-Colombo
-Pedro Oliveira
-Sam Lavigne
-Sarah Rothberg
-Aarón Montoya-Moraga
-Sebastian Morales Prado
+      ML5 team 
+      Daniel Shiffman
+      R. Luke Dubois
+      Allison Parrish
+      Mimi Yin
+      Gabriel Barcia-Colombo
+      Pedro Oliveira
+      Sam Lavigne
+      Sarah Rothberg
+      Aarón Montoya-Moraga
+      Sebastian Morales Prado
