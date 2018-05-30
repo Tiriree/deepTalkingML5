@@ -6,6 +6,8 @@
 
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2018/05/mlnew.gif" rel="attachment wp-att-1176"><img src="http://xxx.tiri.xxx/wp-content/uploads/2018/05/mlnew.gif" alt="mlnew" width="320" height="166" class="aligncenter size-full wp-image-1176" /></a>
 
+I created bots to be able to listen and respond to humans using machine learning to generate new narrative techniques in unpredictable ways.
+
 Among the differnent bots I created we have the Machine Learning Bot. I uses ML5 algorithms to generate it’s understanding model.
 For this example, I used pre-train word (wordvecs10000) to train it. The bot will respond with related words from the pre-train file.
 
