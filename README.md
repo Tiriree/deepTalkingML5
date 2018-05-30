@@ -22,7 +22,7 @@ I used Shiffman's example for training your data
 [word2vec-Train](https://github.com/shiffman/p5-word2vec/tree/master/train)
 
 
-This is the documentation for Machine Learning Bot. You can download and try by yourself. Follow these steps 
+You can download and try by yourself. Follow these steps 
 
       download or clone this repository
 
